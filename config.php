@@ -3,7 +3,7 @@
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = "Ether_bank";
+	$dbname = "Canva_bank";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
